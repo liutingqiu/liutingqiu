@@ -1,10 +1,17 @@
-### Hi there 👋 — I'm liutingqiu
+### Hi there 👋 — I am liutingqiu
 
-AI-driven independent developer & open-source maker. Building in public — shipping finished things, not half-finished promises.
+AI-driven independent developer, systems architect & open-source maker. Building in public — shipping finished things, not half-finished promises.
 
 ---
 
-### ✅ Finished product
+### 🚀 Live Commercial Services & Demos
+
+- **LeadFlow Automation Demo** — interactive enterprise lead intake, scoring & reply pipeline: [lead-flow-demo.pages.dev](https://lead-flow-demo.pages.dev)
+- **LQ API Hub** — production-grade LLM API distribution & token platform: [api.liutingqiu.xyz](https://api.liutingqiu.xyz) (Console: [console.liutingqiu.xyz](https://console.liutingqiu.xyz))
+
+---
+
+### ✅ Featured Products
 
 **Reasonix Browser Bridge** — control your browser (Chrome & Edge) via MCP: tabs, cookies, arbitrary JS, screenshots, downloads, proxy, data cleanup. **25 tools, full permissions, zero configuration.** Shown in the official Reasonix community ([Discussion #7108](https://github.com/esengine/DeepSeek-Reasonix/discussions/7108)).
 
@@ -28,16 +35,17 @@ Single-file utilities and weekend projects — free to use, no guarantees:
 
 ---
 
-### 🛍️ Digital products
+### 🛍️ Digital products & Automation Packs
 
-Premium versions of the free resources (resume templates, icon mega-packs) — [Tianqi Digital Studio](https://payhip.com/TianqiDigitalStudio), from $2.
+- **Instant Python Office Automation Toolkit ($5)** — [Buy on Gumroad](https://tianqi7.gumroad.com/l/xlqydf)
+- Premium templates & design mega-packs — [Tianqi Digital Studio](https://payhip.com/TianqiDigitalStudio), from $2.
 
 ---
 
 ### 🧰 Stack
 
-Python · TypeScript/Node · Chrome/Edge extensions (MV3) · MCP · CDP · automation & scraping · GitHub API
+Python · TypeScript/Node · Cloudflare Workers/Pages · Chrome/Edge extensions (MV3) · MCP · CDP · Automation & Scraping · API Infrastructure
 
 ---
 
-*If something helps you, a star ⭐ or a follow is appreciated. If it doesn't, tell me — I'd rather fix it than hide it.*
+*If something helps you, a star ⭐ or a follow is appreciated. Inquiries: `tianqi689@gmail.com`.*
