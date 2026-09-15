@@ -48,4 +48,4 @@ Python · TypeScript/Node · Cloudflare Workers/Pages · Chrome/Edge extensions 
 
 ---
 
-*If something helps you, a star ⭐ or a follow is appreciated. Inquiries: `tianqi689@gmail.com`.*
+*Direct Telegram for quick projects & inquiries:* [@apiLuccc](https://t.me/apiLuccc) · *Email:* `tianqi689@gmail.com`
