@@ -48,4 +48,4 @@ Python · TypeScript/Node · Cloudflare Workers/Pages · Chrome/Edge extensions 
 
 ---
 
-*Direct WhatsApp:* [Chat on WhatsApp (+86 132 1465 0826)](https://wa.me/8613214650826) · *Email:* `tianqi689@gmail.com`
+*Direct WhatsApp:* [Chat on WhatsApp (+86 132 1465 0826)](https://wa.me/8613214650826) · *Telegram:* [@liutingqiu](https://t.me/liutingqiu) · *Email:* `tianqi689@gmail.com`
