@@ -1,51 +1,83 @@
-### Hi there 👋 — I am liutingqiu
+# Hi, I'm Tingqiu Liu (@liutingqiu)
 
-AI-driven independent developer, systems architect & open-source maker. Building in public — shipping finished things, not half-finished promises.
+Systems Architect & Independent Software Engineer focusing on high-reliability distributed systems, browser automation, and application security. Building in public with a focus on production-ready deliverables.
 
----
-
-### 🚀 Live Commercial Services & Demos
-
-- **LeadFlow Automation Demo** — interactive enterprise lead intake, scoring & reply pipeline: [lead-flow-demo.pages.dev](https://lead-flow-demo.pages.dev)
-- **LQ API Hub** — production-grade LLM API distribution & token platform: [api.liutingqiu.xyz](https://api.liutingqiu.xyz) (Console: [console.liutingqiu.xyz](https://console.liutingqiu.xyz))
+[English Overview](#engineering--track-record) · [中文介绍](#-中文版本--chinese-version)
 
 ---
 
-### ✅ Featured Products
+### Engineering & Track Record
 
-**Reasonix Browser Bridge** — control your browser (Chrome & Edge) via MCP: tabs, cookies, arbitrary JS, screenshots, downloads, proxy, data cleanup. **25 tools, full permissions, zero configuration.** Shown in the official Reasonix community ([Discussion #7108](https://github.com/esengine/DeepSeek-Reasonix/discussions/7108)).
-
-🔗 https://github.com/liutingqiu/reasonix-browser-bridge
-
----
-
-### 📦 Free resources (production-ready)
-
-- Resume/CV templates: [`resume-latex-template`](https://github.com/liutingqiu/resume-latex-template) · [`html-resume-template`](https://github.com/liutingqiu/html-resume-template) · [`awesome-cv-resume`](https://github.com/liutingqiu/awesome-cv-resume)
-- SVG icon packs (1288 icons): [`free-svg-icon-pack`](https://github.com/liutingqiu/free-svg-icon-pack)
-- Curated design & dev resource lists: [`free-design-resources`](https://github.com/liutingqiu/free-design-resources) · [`awesome-ui-kits`](https://github.com/liutingqiu/awesome-ui-kits) · [`developer-resources`](https://github.com/liutingqiu/developer-resources)
+- **Active Open-Source Contributor**: Over 880+ contributions and 66+ merged Pull Requests across distributed infrastructure, Web3 protocols, and developer toolings in the past year.
+- **Key Open-Source Work**:
+  - **[Sottara-Labs/sottara](https://github.com/Sottara-Labs/sottara)**: Core contributor with 54+ merged PRs spanning distributed KV synchronization, CSPRNG-backed audit logs, CSP/CSRF security hardening, and resilient CI/CD test gates.
+  - **[Perenna-Labs/perenna-contracts](https://github.com/Perenna-Labs/perenna-contracts)**: Smart contract verification and WASM compilation pipeline CI gates.
+  - **[AstralDeep/LETS](https://github.com/AstralDeep/LETS)**: Strict timezone-naive datetime validation and canonical normalization.
+  - **Code Review**: Active peer reviewer across ecosystem projects including `CalloraOrg/Callora-Frontend`.
+- **Honors & Badges**: GitHub **Pull Shark**, **Quickdraw**, and **YOLO** recipient.
 
 ---
 
-### 🧪 Small tools & experiments
+### Featured Systems & Products
 
-Single-file utilities and weekend projects — free to use, no guarantees:
-
-`langbridge` (code translator) · `diffsense` (semantic diff) · `webhooker` (webhook relay) · `tinyvault` (secrets) · `zerobackend` (JSON→API) · `repowatch` (supply-chain) · `dev-kit` · `AgentZero` (AI agent runtime, WIP) · `sentinel-watch` (hackathon prototype)
-
----
-
-### 🛍️ Digital products & Automation Packs
-
-- **Instant Python Office Automation Toolkit ($5)** — [Buy on Gumroad](https://tianqi7.gumroad.com/l/xlqydf)
-- Premium templates & design mega-packs — [Tianqi Digital Studio](https://payhip.com/TianqiDigitalStudio), from $2.
+- **[Reasonix Browser Bridge](https://github.com/liutingqiu/reasonix-browser-bridge)**: Production-grade Model Context Protocol (MCP) server for deep browser control (Chrome & Edge) via CDP. Provides 25 tools covering tab orchestration, authenticated state manipulation, arbitrary JS evaluation, and automated data cleanup. Recognized in the official Reasonix community ([Discussion #7108](https://github.com/esengine/DeepSeek-Reasonix/discussions/7108)).
+- **[LeadFlow Automation](https://lead-flow-demo.pages.dev)**: Enterprise-ready lead intake, qualification scoring, and automated engagement pipeline.
+- **[LQ API Hub](https://api.liutingqiu.xyz)**: Resilient LLM API routing, balancing, and token accounting infrastructure ([Console](https://console.liutingqiu.xyz)).
 
 ---
 
-### 🧰 Stack
+### Open Tools & Resources
 
-Python · TypeScript/Node · Cloudflare Workers/Pages · Chrome/Edge extensions (MV3) · MCP · CDP · Automation & Scraping · API Infrastructure
+- **Developer Templates**: Production-ready CV templates in LaTeX and HTML ([`resume-latex-template`](https://github.com/liutingqiu/resume-latex-template), [`html-resume-template`](https://github.com/liutingqiu/html-resume-template), [`awesome-cv-resume`](https://github.com/liutingqiu/awesome-cv-resume)).
+- **Design Systems**: Curated SVG icon collection (1,288+ assets) via [`free-svg-icon-pack`](https://github.com/liutingqiu/free-svg-icon-pack).
+- **Utility Repositories**: Lightweight developer tooling covering semantic diffs (`diffsense`), webhook forwarding (`webhooker`), and API prototyping (`zerobackend`).
 
 ---
 
-*Direct WhatsApp:* [Chat on WhatsApp (+86 132 1465 0826)](https://wa.me/8613214650826) · *Telegram:* [@liutingqiu](https://t.me/liutingqiu) · *Email:* `tianqi689@gmail.com`
+### Core Technical Stack
+
+- **Languages & Runtimes**: TypeScript, JavaScript (Node.js), Python, Rust (Soroban / WASM)
+- **Infrastructure & Cloud**: Cloudflare Workers & Pages, KV Storage, RESTful APIs, MCP Standard
+- **Systems & Automation**: Chrome/Edge Extension Engineering (MV3), Chrome DevTools Protocol (CDP), Playwright, CI/CD Pipeline Security (GitHub Actions)
+- **Security & Reliability**: Cryptographic primitives (CSPRNG, JCS canonicalization), Strict CSP/Origin Policies, E2E Test Hardening
+
+---
+
+<details>
+<summary><b>🇨🇳 中文版本 / Chinese Version</b></summary>
+
+<br />
+
+### 个人概览与工程实践
+
+你好，我是 **liutingqiu**。独立软件工程师与系统架构设计者，专注高可靠性分布式系统、浏览器自动化架构与工程安全加固。
+
+#### 核心开源贡献与数据背书
+- **高频开源贡献**：近一年累计产生 **880+ 次贡献**，在多个开源组织与基础设施仓库累计提交 **160+ 个 Pull Request**，其中 **66 个 PR 已成功合并**。
+- **代表性贡献项目**：
+  - **Sottara-Labs/sottara**：核心贡献者（已合并 54+ 个 PR），主导了分布式 KV 存储同步队列、基于密码学安全随机数（CSPRNG）的审计与 ID 生成、CSP/CSRF 安全策略加固以及 CI/CD 自动化门禁优化。
+  - **Perenna-Labs/perenna-contracts**：完善智能合约编译验证与 WASM 靶向 CI 检查流水线。
+  - **AstralDeep/LETS**：规范化时区校验与时间序列数据处理。
+  - **社区代码审查**：在多个开源项目中承担 Peer Review 职责（包括 CalloraOrg 等前端与工具链仓库）。
+- **平台官方成就**：荣获 GitHub 官方 **Pull Shark**（拉取狂鲨）、**Quickdraw**（快速响应）、**YOLO** 徽章。
+
+#### 核心产品与代表作
+- **Reasonix Browser Bridge**：基于 MCP（模型上下文协议）与 CDP 深度控制 Chrome/Edge 浏览器的工业级桥接服务，内置 25 项系统级工具，实现零配置、全权限自动化，获 Reasonix 官方社区重点推荐与收录（Discussion #7108）。
+- **LeadFlow Automation**：企业级商机线索自动化接入、打分与多渠道应答系统。
+- **LQ API Hub**：高可用大模型 API 分发、负载均衡与额度管理网关平台。
+
+#### 技术专长与技术栈
+- **编程语言**：TypeScript / JavaScript (Node.js)、Python、Rust
+- **云基础设施与边缘计算**：Cloudflare Workers / Pages、KV、RESTful 接口架构、MCP 协议体系
+- **系统与自动化工程**：MV3 浏览器扩展架构、CDP 原生协议调度、CI/CD 安全流水线编排
+- **安全与稳定性保障**：密码学安全组件、严格内容安全策略（CSP）、E2E 自动化测试防护
+
+</details>
+
+---
+
+### Contact & Connect
+
+- **Email**: [tianqi689@gmail.com](mailto:tianqi689@gmail.com)
+- **Telegram**: [@liutingqiu](https://t.me/liutingqiu)
+- **WhatsApp**: [+86 132 1465 0826](https://wa.me/8613214650826)
