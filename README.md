@@ -29,6 +29,16 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 
 ---
 
+### Sponsorship & Support
+
+If you find my open-source work or security contributions valuable, you can support my independent engineering work directly:
+
+- **PayPal**: [tianqi689@gmail.com](https://paypal.me/tianqi689)
+- **Crypto / Web3 (Stellar USDC & XLM)**: `GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
+- **WeChat Pay / Alipay**: Available via personal QR code upon request
+
+---
+
 <div id="开源贡献与工程实践-chinese-version"></div>
 
 ## 开源贡献与工程实践 (Chinese Version)
@@ -51,6 +61,12 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 - **编程语言**：TypeScript / JavaScript (Node.js)、Python、Rust (Soroban / WASM)
 - **云原生与基础设施**：Cloudflare Workers / Pages、分布式 KV 存储、RESTful API 架构、MCP 协议规范
 - **安全加固与工程质量**：密码学安全原语应用、内容安全策略（CSP）、E2E 自动化测试防护、GitHub Actions 安全门禁
+
+### 开源赞助与支持
+如果你认可我的开源技术输出或安全维护工作，欢迎通过以下渠道支持我的独立开发：
+- **PayPal**：[tianqi689@gmail.com](https://paypal.me/tianqi689)
+- **链上收款 (Stellar USDC / XLM)**：`GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
+- **微信 / 支付宝**：支持扫码赞助（可联系获取收款码）
 
 ---
 
