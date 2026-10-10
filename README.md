@@ -38,7 +38,24 @@ If you find my open-source work or security contributions valuable, you can supp
   - MetaMask: `0x2209DfA522650089d3422F020d7F203DD3A895E3`
   - OKX: `0xcfbc1356ef57a9a41d9af16e019c45889cb7032e`
 - **Crypto / Stellar (XLM & USDC)**: `GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
-- **WeChat Pay / Alipay**: Available via personal QR code upon request
+- **WeChat Pay / Alipay (微信 / 支付宝扫码打赏)**:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="210">
+        <img src="./assets/wechat-pay.jpg" width="180" alt="WeChat Pay" />
+        <br />
+        <sub><b>WeChat Pay (微信支付)</b></sub>
+      </td>
+      <td align="center" width="210">
+        <img src="./assets/alipay.jpg" width="180" alt="Alipay" />
+        <br />
+        <sub><b>Alipay (支付宝)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -72,7 +89,24 @@ If you find my open-source work or security contributions valuable, you can supp
   - 小狐狸 (MetaMask)：`0x2209DfA522650089d3422F020d7F203DD3A895E3`
   - 欧易 (OKX)：`0xcfbc1356ef57a9a41d9af16e019c45889cb7032e`
 - **链上收款 (Stellar - XLM & USDC)**：`GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
-- **微信 / 支付宝**：支持扫码赞助（可联系获取收款码）
+- **微信 / 支付宝 (扫码直接打赏)**：
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="210">
+        <img src="./assets/wechat-pay.jpg" width="180" alt="微信支付" />
+        <br />
+        <sub><b>微信支付 (WeChat Pay)</b></sub>
+      </td>
+      <td align="center" width="210">
+        <img src="./assets/alipay.jpg" width="180" alt="支付宝" />
+        <br />
+        <sub><b>支付宝 (Alipay)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
