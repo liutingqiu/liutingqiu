@@ -34,7 +34,10 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 If you find my open-source work or security contributions valuable, you can support my independent engineering work directly:
 
 - **PayPal**: [tianqi689@gmail.com](https://paypal.me/tianqi689)
-- **Crypto / Web3 (Stellar USDC & XLM)**: `GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
+- **Crypto / EVM (Base, Arbitrum, Ethereum, Polygon, OP)**:
+  - MetaMask: `0x2209DfA522650089d3422F020d7F203DD3A895E3`
+  - OKX: `0xcfbc1356ef57a9a41d9af16e019c45889cb7032e`
+- **Crypto / Stellar (XLM & USDC)**: `GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
 - **WeChat Pay / Alipay**: Available via personal QR code upon request
 
 ---
@@ -65,7 +68,10 @@ If you find my open-source work or security contributions valuable, you can supp
 ### 开源赞助与支持
 如果你认可我的开源技术输出或安全维护工作，欢迎通过以下渠道支持我的独立开发：
 - **PayPal**：[tianqi689@gmail.com](https://paypal.me/tianqi689)
-- **链上收款 (Stellar USDC / XLM)**：`GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
+- **链上收款 (EVM 全生态 - Base, Arbitrum, Ethereum, Polygon, OP)**：
+  - 小狐狸 (MetaMask)：`0x2209DfA522650089d3422F020d7F203DD3A895E3`
+  - 欧易 (OKX)：`0xcfbc1356ef57a9a41d9af16e019c45889cb7032e`
+- **链上收款 (Stellar - XLM & USDC)**：`GB2BHZX2SGCNNQVNC3CWSEHGWWJFIARVLDRAHED4IACUKRI5UCWZRN5R`
 - **微信 / 支付宝**：支持扫码赞助（可联系获取收款码）
 
 ---
