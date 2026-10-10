@@ -2,7 +2,7 @@
 
 Systems Architect & Independent Software Engineer focusing on high-reliability distributed systems, browser automation, and application security. Building in public with a focus on production-ready deliverables.
 
-[English Overview](#engineering--track-record) · [中文介绍](#-中文版本--chinese-version)
+[English Overview](#engineering--track-record) · [中文版本介绍](#个人概览与工程实践)
 
 ---
 
@@ -43,16 +43,13 @@ Systems Architect & Independent Software Engineer focusing on high-reliability d
 
 ---
 
-<details>
-<summary><b>🇨🇳 中文版本 / Chinese Version</b></summary>
+<div id="个人概览与工程实践"></div>
 
-<br />
-
-### 个人概览与工程实践
+## 个人概览与工程实践 (Chinese Version)
 
 你好，我是 **liutingqiu**。独立软件工程师与系统架构设计者，专注高可靠性分布式系统、浏览器自动化架构与工程安全加固。
 
-#### 核心开源贡献与数据背书
+### 核心开源贡献与数据背书
 - **高频开源贡献**：近一年累计产生 **880+ 次贡献**，在多个开源组织与基础设施仓库累计提交 **160+ 个 Pull Request**，其中 **66 个 PR 已成功合并**。
 - **代表性贡献项目**：
   - **Sottara-Labs/sottara**：核心贡献者（已合并 54+ 个 PR），主导了分布式 KV 存储同步队列、基于密码学安全随机数（CSPRNG）的审计与 ID 生成、CSP/CSRF 安全策略加固以及 CI/CD 自动化门禁优化。
@@ -61,18 +58,16 @@ Systems Architect & Independent Software Engineer focusing on high-reliability d
   - **社区代码审查**：在多个开源项目中承担 Peer Review 职责（包括 CalloraOrg 等前端与工具链仓库）。
 - **平台官方成就**：荣获 GitHub 官方 **Pull Shark**（拉取狂鲨）、**Quickdraw**（快速响应）、**YOLO** 徽章。
 
-#### 核心产品与代表作
-- **Reasonix Browser Bridge**：基于 MCP（模型上下文协议）与 CDP 深度控制 Chrome/Edge 浏览器的工业级桥接服务，内置 25 项系统级工具，实现零配置、全权限自动化，获 Reasonix 官方社区重点推荐与收录（Discussion #7108）。
-- **LeadFlow Automation**：企业级商机线索自动化接入、打分与多渠道应答系统。
-- **LQ API Hub**：高可用大模型 API 分发、负载均衡与额度管理网关平台。
+### 核心产品与代表作
+- **Reasonix Browser Bridge**：基于 MCP（模型上下文协议）与 CDP 深度控制 Chrome/Edge 浏览器的工业级桥接服务，内置 25 项系统级工具，实现零配置、全权限自动化，获 Reasonix 官方社区重点推荐与收录（[Discussion #7108](https://github.com/esengine/DeepSeek-Reasonix/discussions/7108)）。
+- **LeadFlow Automation**：企业级商机线索自动化接入、打分与多渠道应答系统（[演示](https://lead-flow-demo.pages.dev)）。
+- **LQ API Hub**：高可用大模型 API 分发、负载均衡与额度管理网关平台（[控制台](https://console.liutingqiu.xyz)）。
 
-#### 技术专长与技术栈
+### 技术专长与技术栈
 - **编程语言**：TypeScript / JavaScript (Node.js)、Python、Rust
 - **云基础设施与边缘计算**：Cloudflare Workers / Pages、KV、RESTful 接口架构、MCP 协议体系
 - **系统与自动化工程**：MV3 浏览器扩展架构、CDP 原生协议调度、CI/CD 安全流水线编排
 - **安全与稳定性保障**：密码学安全组件、严格内容安全策略（CSP）、E2E 自动化测试防护
-
-</details>
 
 ---
 
