@@ -38,6 +38,7 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 | **[cashtokens-bch-stream-vault](https://github.com/liutingqiu/cashtokens-bch-stream-vault)** | Bitcoin Cash CashTokens Continuous Streaming Protocol & P2SH Smart Vault | CashScript, CashTokens, PUSD | [Live Streaming Vault](https://liutingqiu.github.io/cashtokens-bch-stream-vault/) |
 | **[youcam-ai-agent-vto](https://github.com/liutingqiu/youcam-ai-agent-vto)** | Agentic AI Multimodal Beauty Advisor & Virtual Try-On Studio | YouCam Skin AI, VTO, Agent | [Live VTO Studio](https://liutingqiu.github.io/youcam-ai-agent-vto/) |
 | **[alexa-mcp-living-room-agent](https://github.com/liutingqiu/alexa-mcp-living-room-agent)** | Amazon Alexa+ MCP Spec 2025-11-25 Living Room Multi-Device Mesh | TypeScript, MCP, Fire TV, Ring | [Live Studio](https://liutingqiu.github.io/alexa-mcp-living-room-agent/) |
+| **[mentioned-arena-tactical-simulator](https://github.com/liutingqiu/mentioned-arena-tactical-simulator)** | Mentioned Arena Prediction Market Squad Simulator & Grand Prix Calculator | TypeScript, Solana, AMM | [Live Simulator](https://liutingqiu.github.io/mentioned-arena-tactical-simulator/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | Autonomous AI Agent Commerce Gateway for PayPal Orders API v2 & x402 | PayPal Orders v2, x402, AI | [Live Storefront](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | Autonomous Browser Intelligence Agent & MCP Extension Bridge | TypeScript, CDP, MCP | [Open Source](https://github.com/liutingqiu/raw-agent) |
 
@@ -117,6 +118,7 @@ If you find my open-source work or security contributions valuable, you can supp
 | **[cashtokens-bch-stream-vault](https://github.com/liutingqiu/cashtokens-bch-stream-vault)** | Bitcoin Cash CashTokens 连续流支付协议与 P2SH 智能合约金库 | CashScript, CashTokens, PUSD | [在线流支付金库](https://liutingqiu.github.io/cashtokens-bch-stream-vault/) |
 | **[youcam-ai-agent-vto](https://github.com/liutingqiu/youcam-ai-agent-vto)** | 多模态美妆 AI 智能体与 3D 虚拟试妆 (VTO) 顾问引擎 | YouCam Skin AI, VTO, Agent | [在线试妆工作台](https://liutingqiu.github.io/youcam-ai-agent-vto/) |
 | **[alexa-mcp-living-room-agent](https://github.com/liutingqiu/alexa-mcp-living-room-agent)** | 亚马逊 Alexa+ 官方 MCP 协议客厅多设备自主智能体 | TypeScript, MCP, Fire TV, Ring | [在线工作台](https://liutingqiu.github.io/alexa-mcp-living-room-agent/) |
+| **[mentioned-arena-tactical-simulator](https://github.com/liutingqiu/mentioned-arena-tactical-simulator)** | Mentioned Arena 预测市场 2 人战队收益模拟器与 Grand Prix 大奖计算器 | TypeScript, Solana, AMM | [在线战术终端](https://liutingqiu.github.io/mentioned-arena-tactical-simulator/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | 面向自主 AI Agent 的 PayPal Orders API v2 网关与支出防火墙 | PayPal Orders v2, x402, AI | [在线商店模拟器](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | 自主浏览器原生智能体与 Chrome/Edge MCP 扩展桥接协议 | TypeScript, CDP, MCP | [开源仓库](https://github.com/liutingqiu/raw-agent) |
 
