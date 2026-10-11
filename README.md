@@ -40,6 +40,7 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 | **[alexa-mcp-living-room-agent](https://github.com/liutingqiu/alexa-mcp-living-room-agent)** | Amazon Alexa+ MCP Spec 2025-11-25 Living Room Multi-Device Mesh | TypeScript, MCP, Fire TV, Ring | [Live Studio](https://liutingqiu.github.io/alexa-mcp-living-room-agent/) |
 | **[meta-webxr-hands-agent](https://github.com/liutingqiu/meta-webxr-hands-agent)** | Meta Quest Hands-First WebXR Spatial Canvas & 25-Joint Gesture Engine | WebXR, IWSDK, Spatial 3D | [Live WebXR Canvas](https://liutingqiu.github.io/meta-webxr-hands-agent/) |
 | **[mentioned-arena-tactical-simulator](https://github.com/liutingqiu/mentioned-arena-tactical-simulator)** | Mentioned Arena Prediction Market Squad Simulator & Grand Prix Calculator | TypeScript, Solana, AMM | [Live Simulator](https://liutingqiu.github.io/mentioned-arena-tactical-simulator/) |
+| **[swapio-season-zero-showcase](https://github.com/liutingqiu/swapio-season-zero-showcase)** | Swap.io Season Zero, Pump the Pool 3 Dynamic Scaler & Quests Simulator | TypeScript, Solana, Multi-DEX | [Live Simulator](https://liutingqiu.github.io/swapio-season-zero-showcase/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | Autonomous AI Agent Commerce Gateway for PayPal Orders API v2 & x402 | PayPal Orders v2, x402, AI | [Live Storefront](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | Autonomous Browser Intelligence Agent & MCP Extension Bridge | TypeScript, CDP, MCP | [Open Source](https://github.com/liutingqiu/raw-agent) |
 
@@ -121,6 +122,7 @@ If you find my open-source work or security contributions valuable, you can supp
 | **[alexa-mcp-living-room-agent](https://github.com/liutingqiu/alexa-mcp-living-room-agent)** | 亚马逊 Alexa+ 官方 MCP 协议客厅多设备自主智能体 | TypeScript, MCP, Fire TV, Ring | [在线工作台](https://liutingqiu.github.io/alexa-mcp-living-room-agent/) |
 | **[meta-webxr-hands-agent](https://github.com/liutingqiu/meta-webxr-hands-agent)** | Meta Quest 裸手 WebXR 空间生产力画板与 25 关节点手势识别引擎 | WebXR, IWSDK, Spatial 3D | [在线空间画板](https://liutingqiu.github.io/meta-webxr-hands-agent/) |
 | **[mentioned-arena-tactical-simulator](https://github.com/liutingqiu/mentioned-arena-tactical-simulator)** | Mentioned Arena 预测市场 2 人战队收益模拟器与 Grand Prix 大奖计算器 | TypeScript, Solana, AMM | [在线战术终端](https://liutingqiu.github.io/mentioned-arena-tactical-simulator/) |
+| **[swapio-season-zero-showcase](https://github.com/liutingqiu/swapio-season-zero-showcase)** | Swap.io Season Zero 动态奖池缩放器 ($1k->$10k) 与社交任务模拟器 | TypeScript, Solana, Multi-DEX | [在线模拟器](https://liutingqiu.github.io/swapio-season-zero-showcase/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | 面向自主 AI Agent 的 PayPal Orders API v2 网关与支出防火墙 | PayPal Orders v2, x402, AI | [在线商店模拟器](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | 自主浏览器原生智能体与 Chrome/Edge MCP 扩展桥接协议 | TypeScript, CDP, MCP | [开源仓库](https://github.com/liutingqiu/raw-agent) |
 
