@@ -21,6 +21,22 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 
 ---
 
+### Featured Web3 Protocols & Autonomous Agent Projects
+
+| Project | Description | Stack | Live Interactive Demo |
+| :--- | :--- | :--- | :--- |
+| **[meteora-dbc-toolkit](https://github.com/liutingqiu/meteora-dbc-toolkit)** | Meteora Dynamic Bonding Curve Architect & DAMM v2 Migration Simulator | TypeScript, Solana, Chart.js | [Live Simulator](https://liutingqiu.github.io/meteora-dbc-toolkit/) |
+| **[panta-ai-oracle](https://github.com/liutingqiu/panta-ai-oracle)** | Autonomous Prediction Market Terminal & Edge Mispricing Evaluator | TypeScript, Panta API, Solana | [Live Terminal](https://liutingqiu.github.io/panta-ai-oracle/) |
+| **[solami-stream-sentinel](https://github.com/liutingqiu/solami-stream-sentinel)** | Real-Time Solana Memepool & Liquidity Indexer | Yellowstone gRPC, Blur, Beam | [Live Dashboard](https://liutingqiu.github.io/solami-stream-sentinel/) |
+| **[narrative-sentinel-agent](https://github.com/liutingqiu/narrative-sentinel-agent)** | Multi-KOL Narrative Convergence & Evidence-Based Trading Agent | Node.js, AI Agents, Web3 | [Live Terminal](https://liutingqiu.github.io/narrative-sentinel-agent/) |
+| **[chainlink-cre-oracle-workflow](https://github.com/liutingqiu/chainlink-cre-oracle-workflow)** | Chainlink Runtime Environment (CRE) Settlement Workflow | CRE TypeScript SDK, DON | [Live Visualizer](https://liutingqiu.github.io/chainlink-cre-oracle-workflow/) |
+| **[defi-risk-dependency-matrix](https://github.com/liutingqiu/defi-risk-dependency-matrix)** | 5-Layer DeFi Dependency & Stay-vs-Exit Portfolio Decision Engine | Graph Theory, TypeScript | [Live Visualizer](https://liutingqiu.github.io/defi-risk-dependency-matrix/) |
+| **[swissquote-passkey-vault](https://github.com/liutingqiu/swissquote-passkey-vault)** | Institutional Self-Custody Smart Account with Biometric Passkeys | WebAuthn P-256, ERC-4337 | [Live Wallet App](https://liutingqiu.github.io/swissquote-passkey-vault/) |
+| **[raw-agent](https://github.com/liutingqiu/raw-agent)** | Autonomous Browser Intelligence Agent & MCP Extension Bridge | TypeScript, CDP, MCP | [Open Source](https://github.com/liutingqiu/raw-agent) |
+
+
+---
+
 ### Technical Focus & Domain Expertise
 
 - **Languages**: TypeScript, JavaScript (Node.js), Python, Rust (Soroban / WASM)
@@ -76,6 +92,20 @@ If you find my open-source work or security contributions valuable, you can supp
   - **[AstralDeep/LETS](https://github.com/AstralDeep/LETS)**：实现时间序列数据标准化与严格时区校验。
   - **社区代码审查**：在多个开源项目中承担 Peer Review 职责（包括 CalloraOrg 等前端与工具链仓库）。
 - **平台官方成就**：荣获 GitHub 官方 **Pull Shark**（拉取狂鲨）、**Quickdraw**（快速响应）、**YOLO** 徽章。
+
+### 代表性 Web3 协议与智能体开源项目
+
+| 项目名称 | 方案简介 | 技术栈 | 在线交互演示 (GitHub Pages) |
+| :--- | :--- | :--- | :--- |
+| **[meteora-dbc-toolkit](https://github.com/liutingqiu/meteora-dbc-toolkit)** | Meteora 动态联合曲线架构师与 DAMM v2 流动性迁移模拟器 | TypeScript, Solana, Chart.js | [在线模拟器](https://liutingqiu.github.io/meteora-dbc-toolkit/) |
+| **[panta-ai-oracle](https://github.com/liutingqiu/panta-ai-oracle)** | 自主预测市场智能交易终端与赔率偏差评估引擎 | TypeScript, Panta API, Solana | [在线终端](https://liutingqiu.github.io/panta-ai-oracle/) |
+| **[solami-stream-sentinel](https://github.com/liutingqiu/solami-stream-sentinel)** | 毫秒级 Solana 内存池监控、巨鲸追踪与流动性索引器 | Yellowstone gRPC, Blur, Beam | [实时看板](https://liutingqiu.github.io/solami-stream-sentinel/) |
+| **[narrative-sentinel-agent](https://github.com/liutingqiu/narrative-sentinel-agent)** | 20 位核心 KOL 叙事收敛监测与全链路审计模拟交易 Agent | Node.js, AI Agent, Web3 | [在线终端](https://liutingqiu.github.io/narrative-sentinel-agent/) |
+| **[chainlink-cre-oracle-workflow](https://github.com/liutingqiu/chainlink-cre-oracle-workflow)** | Chainlink 运行时环境 (CRE) 自动化验证与多节点清算工作流 | CRE TypeScript SDK, DON | [可视化工作流](https://liutingqiu.github.io/chainlink-cre-oracle-workflow/) |
+| **[defi-risk-dependency-matrix](https://github.com/liutingqiu/defi-risk-dependency-matrix)** | 机构级 5 层 DeFi 依赖图谱、级联传导模拟与撤资决策引擎 | Graph Theory, TypeScript | [风险矩阵终端](https://liutingqiu.github.io/defi-risk-dependency-matrix/) |
+| **[swissquote-passkey-vault](https://github.com/liutingqiu/swissquote-passkey-vault)** | 银行级 Passkey 生物密钥自托管智能钱包与 0-Gas 支付原语 | WebAuthn P-256, ERC-4337 | [在线钱包应用](https://liutingqiu.github.io/swissquote-passkey-vault/) |
+| **[raw-agent](https://github.com/liutingqiu/raw-agent)** | 自主浏览器原生智能体与 Chrome/Edge MCP 扩展桥接协议 | TypeScript, CDP, MCP | [开源仓库](https://github.com/liutingqiu/raw-agent) |
+
 
 ### 核心技术专长
 - **编程语言**：TypeScript / JavaScript (Node.js)、Python、Rust (Soroban / WASM)
