@@ -32,6 +32,9 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 | **[chainlink-cre-oracle-workflow](https://github.com/liutingqiu/chainlink-cre-oracle-workflow)** | Chainlink Runtime Environment (CRE) Settlement Workflow | CRE TypeScript SDK, DON | [Live Visualizer](https://liutingqiu.github.io/chainlink-cre-oracle-workflow/) |
 | **[defi-risk-dependency-matrix](https://github.com/liutingqiu/defi-risk-dependency-matrix)** | 5-Layer DeFi Dependency & Stay-vs-Exit Portfolio Decision Engine | Graph Theory, TypeScript | [Live Visualizer](https://liutingqiu.github.io/defi-risk-dependency-matrix/) |
 | **[swissquote-passkey-vault](https://github.com/liutingqiu/swissquote-passkey-vault)** | Institutional Self-Custody Smart Account with Biometric Passkeys | WebAuthn P-256, ERC-4337 | [Live Wallet App](https://liutingqiu.github.io/swissquote-passkey-vault/) |
+| **[stellar-soroban-passkey-kit](https://github.com/liutingqiu/stellar-soroban-passkey-kit)** | Hardware-Bound WebAuthn Passkeys & Account Abstraction SDK on Stellar Soroban | Rust, Soroban, secp256r1 | [Live Simulator](https://liutingqiu.github.io/stellar-soroban-passkey-kit/) |
+| **[circle-arc-usdc-paymaster](https://github.com/liutingqiu/circle-arc-usdc-paymaster)** | Circle Arc Native USDC Gas Fee Estimator & Batch Grant Disburser | TypeScript, Arc L2, USDC | [Live Gas Terminal](https://liutingqiu.github.io/circle-arc-usdc-paymaster/) |
+| **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | Autonomous AI Agent Commerce Gateway for PayPal Orders API v2 & x402 | PayPal Orders v2, x402, AI | [Live Storefront](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | Autonomous Browser Intelligence Agent & MCP Extension Bridge | TypeScript, CDP, MCP | [Open Source](https://github.com/liutingqiu/raw-agent) |
 
 
@@ -104,6 +107,9 @@ If you find my open-source work or security contributions valuable, you can supp
 | **[chainlink-cre-oracle-workflow](https://github.com/liutingqiu/chainlink-cre-oracle-workflow)** | Chainlink 运行时环境 (CRE) 自动化验证与多节点清算工作流 | CRE TypeScript SDK, DON | [可视化工作流](https://liutingqiu.github.io/chainlink-cre-oracle-workflow/) |
 | **[defi-risk-dependency-matrix](https://github.com/liutingqiu/defi-risk-dependency-matrix)** | 机构级 5 层 DeFi 依赖图谱、级联传导模拟与撤资决策引擎 | Graph Theory, TypeScript | [风险矩阵终端](https://liutingqiu.github.io/defi-risk-dependency-matrix/) |
 | **[swissquote-passkey-vault](https://github.com/liutingqiu/swissquote-passkey-vault)** | 银行级 Passkey 生物密钥自托管智能钱包与 0-Gas 支付原语 | WebAuthn P-256, ERC-4337 | [在线钱包应用](https://liutingqiu.github.io/swissquote-passkey-vault/) |
+| **[stellar-soroban-passkey-kit](https://github.com/liutingqiu/stellar-soroban-passkey-kit)** | 硬件级 WebAuthn 生物密钥与 Soroban 账户抽象 SDK | Rust, Soroban, secp256r1 | [在线模拟器](https://liutingqiu.github.io/stellar-soroban-passkey-kit/) |
+| **[circle-arc-usdc-paymaster](https://github.com/liutingqiu/circle-arc-usdc-paymaster)** | Circle Arc 原生 USDC Gas 计价引擎与微型资助批量分发器 | TypeScript, Arc L2, USDC | [实时 Gas 看板](https://liutingqiu.github.io/circle-arc-usdc-paymaster/) |
+| **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | 面向自主 AI Agent 的 PayPal Orders API v2 网关与支出防火墙 | PayPal Orders v2, x402, AI | [在线商店模拟器](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | 自主浏览器原生智能体与 Chrome/Edge MCP 扩展桥接协议 | TypeScript, CDP, MCP | [开源仓库](https://github.com/liutingqiu/raw-agent) |
 
 
