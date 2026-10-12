@@ -53,6 +53,8 @@ Open-Source Contributor & Systems Engineer focusing on distributed infrastructur
 | **[tokengems-solana-audit-engine](https://github.com/liutingqiu/tokengems-solana-audit-engine)** | TokenGems Solana Token Audit & Metric Discrepancy Detection Engine | TypeScript, Solana, Entropy | [Live Audit Dashboard](https://liutingqiu.github.io/tokengems-solana-audit-engine/) |
 | **[sempai-hq-reader-toolkit](https://github.com/liutingqiu/sempai-hq-reader-toolkit)** | Sempai HQ Reader Leaderboard Simulator & Amethyst Reward Mechanics | TypeScript, Solana, Publishing | [Live Simulator](https://liutingqiu.github.io/sempai-hq-reader-toolkit/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | Autonomous AI Agent Commerce Gateway for PayPal Orders API v2 & x402 | PayPal Orders v2, x402, AI | [Live Storefront](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
+| **[opencv5-aws-agentic-vision-sentinel](https://github.com/liutingqiu/opencv5-aws-agentic-vision-sentinel)** | Autonomous Edge-to-Cloud Computer Vision Sentinel fusing OpenCV 5 sub-20ms Telemetry & AWS Serverless | OpenCV 5, AWS EventBridge, S3, SQS | [Live Visualizer](https://liutingqiu.github.io/opencv5-aws-agentic-vision-sentinel/) |
+| **[qloo-cultural-taste-agent](https://github.com/liutingqiu/qloo-cultural-taste-agent)** | Autonomous AI Agent with Cross-Domain Cultural Intelligence & Qloo Taste Graph Grounding | TypeScript, Qloo API v2, MCP | [Live Studio](https://liutingqiu.github.io/qloo-cultural-taste-agent/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | Autonomous Browser Intelligence Agent & MCP Extension Bridge | TypeScript, CDP, MCP | [Open Source](https://github.com/liutingqiu/raw-agent) |
 
 
@@ -137,6 +139,8 @@ If you find my open-source work or security contributions valuable, you can supp
 | **[tokengems-solana-audit-engine](https://github.com/liutingqiu/tokengems-solana-audit-engine)** | TokenGems Solana 代币审计引擎与合约 vs EOA 熵值解构系统 | TypeScript, Solana, Entropy | [在线审计终端](https://liutingqiu.github.io/tokengems-solana-audit-engine/) |
 | **[sempai-hq-reader-toolkit](https://github.com/liutingqiu/sempai-hq-reader-toolkit)** | Sempai HQ 读者排行榜积分模拟器与 Amethyst 忠诚度激励引擎 | TypeScript, Solana, Publishing | [在线模拟终端](https://liutingqiu.github.io/sempai-hq-reader-toolkit/) |
 | **[paypal-agentic-checkout-sdk](https://github.com/liutingqiu/paypal-agentic-checkout-sdk)** | 面向自主 AI Agent 的 PayPal Orders API v2 网关与支出防火墙 | PayPal Orders v2, x402, AI | [在线商店模拟器](https://liutingqiu.github.io/paypal-agentic-checkout-sdk/) |
+| **[opencv5-aws-agentic-vision-sentinel](https://github.com/liutingqiu/opencv5-aws-agentic-vision-sentinel)** | 融合 OpenCV 5 亚 20ms 边缘特征提取与 AWS Serverless 的自主视觉哨兵 | OpenCV 5, AWS EventBridge, S3, SQS | [实时看板](https://liutingqiu.github.io/opencv5-aws-agentic-vision-sentinel/) |
+| **[qloo-cultural-taste-agent](https://github.com/liutingqiu/qloo-cultural-taste-agent)** | 搭载 Qloo 2.5 亿文化实体品味图谱与标准化 MCP 协议的跨域文化智能体 | TypeScript, Qloo API v2, MCP | [在线工作台](https://liutingqiu.github.io/qloo-cultural-taste-agent/) |
 | **[raw-agent](https://github.com/liutingqiu/raw-agent)** | 自主浏览器原生智能体与 Chrome/Edge MCP 扩展桥接协议 | TypeScript, CDP, MCP | [开源仓库](https://github.com/liutingqiu/raw-agent) |
 
 
